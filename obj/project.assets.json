@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sergi\\.nuget\\packages\\": {}
+    "C:\\Users\\Emily\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Desktop\\prueba2\\prueba2.csproj",
+      "projectUniqueName": "C:\\Users\\Emily\\prueba2\\prueba2.csproj",
       "projectName": "prueba2",
-      "projectPath": "C:\\Users\\sergi\\OneDrive\\Desktop\\prueba2\\prueba2.csproj",
-      "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\OneDrive\\Desktop\\prueba2\\obj\\",
+      "projectPath": "C:\\Users\\Emily\\prueba2\\prueba2.csproj",
+      "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emily\\prueba2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
